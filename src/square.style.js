@@ -6,10 +6,11 @@
 import { css } from '@emotion/react';
 
 export const square = css`
-background: lightblue;
-border: 2px solid darkblue;
+background: cadetblue;
+border: 2px solid lavenderblush;
 font-size: 30px;
 font-weight: 800;
 cursor: pointer;
 outline: none;
+color: navajowhite;
 `;
